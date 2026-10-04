@@ -1,1 +1,1 @@
-# Sistem-Opeasi-Tugas-1
+# Sistem-Operasi-Tugas-1
